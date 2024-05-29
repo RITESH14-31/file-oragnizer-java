@@ -1,1 +1,1 @@
-he File Organizer project in Java is a program that allows users to manage files and directories on their system. It provides features such as reading and writing files, creating and deleting directories, and navigating through the file system.
+The File Organizer project in Java is a program that allows users to manage files and directories on their system. It provides features such as reading and writing files, creating and deleting directories, and navigating through the file system.
